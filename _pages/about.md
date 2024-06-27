@@ -56,7 +56,7 @@ My research interest includes UE mobility management in integrated terrestrial a
 
 
 # Academic Services
-- **Reviewer** for TOP Journals/Magazine/Conferences: IEEE TWC, TCOM, TVT, IoTJ, Network, Wireless Communications, Communications Magazine, ICC, Globecom
+- **Reviewer** for TOP Journal/Magazine/Conference: IEEE TWC, TCOM, TVT, IoTJ, Network, Wireless Communications, Communications Magazine, ICC, Globecom
 - **Conference Session Chair**: Globecom’19、Globecom’23、Simutools’19、Simutools’20;
 - **TPC member**: Globecom’23, Globecom’24, ICC’24; 
 - **Keynote Speaker**: Simutools’20;
