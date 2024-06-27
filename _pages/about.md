@@ -17,42 +17,56 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am now a postdoctoral research fellow at the Singapore University of Technology and Design (SUTD), where I collaborate with Prof. Tony Q. S. Quek. I obtained my Ph.D. in Navigation, Guidance and Control at Dec. 2022 under the guidance of Prof. Dingde Jiang from the University of Electronic Science and Technology of China (UESTC), where I also completed my M.S. in Electronics and Communication Engineering under the guidance of Prof. Hong Wen at Jul. 2018 and B.S. in Information and Computational Science at Jul. 2016. During my doctoral studies, I also spent one year as a visiting Ph.D. student at SUTD under the guidance of Prof. Tony Quek.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes UE mobility management in integrated terrestrial and non-terrestrial networks (NTN), and networking and routing in integrated GEO-MEO-LEO satellite networks. 
+{% I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). %}
 
 
-# 🔥 News
+{% # News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. %}
 
-# 📝 Publications 
+# Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+**Journal**：
+**F. Wang**, T. Quek, et al. Seamless handover in LEO based non-terrestrial networks: service continuity and optimization, IEEE Transactions on Communications, 2023, 71(2): 1008-1023.
+**F. Wang**, T. Quek, et al. Dynamic networking for continuable transmission optimization in LEO satellite networks, IEEE Transactions on Vehicular Technology, 2023, 72(5): 6639-6653, 2023.
+D. Jiang, **F. Wang***, et al. QoE-aware efficient content distribution scheme for satellite-terrestrial networks, IEEE Transactions on Mobile Computing, 2023, 22(1): 443-458. (ESI highly cited paper, IEEE Best Readings)
+**F. Wang**, D. Jiang, et al. Fuzzy-CNN based multi-task routing for integrated satellite-terrestrial networks, IEEE Transactions on Vehicular Technology, 2022, 71(2): 1913-1926.
+**F. Wang**, D. Jiang, et al. Service continuity based data delivery optimization in satellite-terrestrial networks, IEEE Transactions on Vehicular Technology, 2023, 72(10): 13604-13617.
+**F. Wang**, D. Jiang, et al. Adaboost-based security level classification of mobile intelligent terminals, Journal of Supercomputing, 2019, 75(11): 7460-7478. (ESI Hot Paper)
+**F. Wang**, D. Jiang, et al. An adaptive routing algorithm for integrated information networks, China Communications, 2019, 7(1): 196-207. (Google Scholar citations: 101)
+**F. Wang**, D. Jiang, et al. A dynamic resource scheduling scheme in edge computing satellite networks, Mobile Networks and Applications, 2021, 26(2): 597-608.
+**F. Wang**, D. Jiang, et al. An adaboost based link planning scheme in space-air-ground integrated networks, Mobile Networks and Applications, 2021, 26(2): 669-680.
+**F. Wang**, D. Jiang, et al. Security level protection for intelligent terminals based on differential privacy, Telecommunication Systems, 2020, 74(4): 425-435.
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+**Conference**：
+**F. Wang**, G. Geraci, T. Quek, et al. Optimizing cache content placement in integrated terrestrial and non-terrestrial networks, Proceedings of the IEEE Global Communications Conference (GLOBECOM), 2023, pp1-6.
+**F. Wang**, D. Jiang, et al. Fine-grained resource management for edge computing satellite networks, Proceedings of the IEEE Global Communications Conference (GLOBECOM), 2019, pp1-6.
+**F. Wang**, D. Jiang, et al. Branch-based link planning for time-varying space-air integrated networks, Proceedings of the IEEE International Conference on Communications (ICC), 2020, pp1-6.
+**F. Wang**, D. Jiang, S. Qi, et al. Dynamic computing resource adjustment in edge computing satellite networks, in Proc. Simutools’19, 2019, pp135-145. (Simutools2019 Best Paper Award)
+**F. Wang**, D. Jiang, et al. Time-varying contact management with dynamic programming for LEO satellite networks, IEEE 17th International Conference on Mobility, Sensing and Networking (MSN), 2021, pp1-6.
+**F. Wang**, D. Jiang, et al. Time-extended pathfinding optimization in mobile LEO satellite communication networks, IEEE 94th Vehicular Technology Conference (VTC2021-Fall), 2021, pp1-6.
+**F. Wang**, D. Jiang, et al. An intelligent relay node selection scheme in space-air-ground integrated networks, in Proc. Simutools’19, 2019, pp157-167.
+**F. Wang**, D. Jiang, et al. An adaptive algorithm based on adaboost for mimicry multimode decision, in Proc. Simutools’20, 2020, pp127-136.
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+# Honors and Awards
+- *2023* Best Readings, IEEE Communications Society: QoE-aware efficient content distribution scheme for satellite-terrestrial networks. 
+- *2022* Outstanding Student, UESTC.
+- *2022* Outstanding Graduate, Sichuan Province and UESTC.
+- *2020* China National Scholarship (Doctoral).
+- *2019* Best Paper Award, Simutools’19, (1/92).
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📖 Educations
+{% # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. %}
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# Academic Services
+**Reviewer** for TOP Journals/Magazine/Conferences: IEEE TWC, TCOM, TVT, IoTJ, Network, Wireless Communications, Communications Magazine, ICC, Globecom
+**Conference Session Chair**: Globecom’19、Globecom’23、Simutools’19、Simutools’20;
+**TPC member**: Globecom’23, Globecom’24, ICC’24; 
+**Keynote Speaker**: Simutools’20;
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
