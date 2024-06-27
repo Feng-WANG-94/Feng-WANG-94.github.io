@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am now a postdoctoral research fellow at the Singapore University of Technology and Design (SUTD), where I collaborate with Prof. Tony Q. S. Quek. I obtained my Ph.D. in Navigation, Guidance and Control at Dec. 2022 under the guidance of Prof. Dingde Jiang from the University of Electronic Science and Technology of China (UESTC), where I also completed my M.S. in Electronics and Communication Engineering under the guidance of Prof. Hong Wen at Jul. 2018 and B.S. in Information and Computational Science at Jul. 2016. During my doctoral studies, I also spent one year as a visiting Ph.D. student at SUTD under the guidance of Prof. Tony Quek.
+I am now a postdoctoral research fellow collaborate with Prof. [Tony Q. S. Quek](https://people.sutd.edu.sg/~tonyquek/) at Singapore University of Technology and Design (SUTD). I obtained my Ph.D. in Navigation, Guidance and Control at Dec. 2022 under the guidance of Prof. Dingde Jiang from the University of Electronic Science and Technology of China (UESTC), where I also completed my M.S. in Electronics and Communication Engineering under the guidance of Prof. Hong Wen at Jul. 2018 and B.S. in Information and Computational Science at Jul. 2016. During my doctoral studies, I also spent one year as a visiting Ph.D. student at SUTD under the guidance of Prof. Tony Quek.
 
 My research interest includes UE mobility management in integrated terrestrial and non-terrestrial networks (NTN), and networking and routing in integrated GEO-MEO-LEO satellite networks. 
 
