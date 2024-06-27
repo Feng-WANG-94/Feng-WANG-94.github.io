@@ -54,9 +54,6 @@ D. Jiang, **F. Wang\***, et al. QoE-aware efficient content distribution scheme 
 - *2020* China National Scholarship (Doctoral).
 - *2019* Best Paper Award, Simutools’19, (1/92).
 
-{% # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. %}
 
 # Academic Services
 **Reviewer** for TOP Journals/Magazine/Conferences: IEEE TWC, TCOM, TVT, IoTJ, Network, Wireless Communications, Communications Magazine, ICC, Globecom
