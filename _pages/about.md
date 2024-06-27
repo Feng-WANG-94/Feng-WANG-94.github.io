@@ -31,7 +31,7 @@ My research interest includes UE mobility management in integrated terrestrial a
 - **F. Wang**, D. Jiang, et al. Fuzzy-CNN based multi-task routing for integrated satellite-terrestrial networks, IEEE Transactions on Vehicular Technology, 2022, 71(2): 1913-1926.
 - **F. Wang**, D. Jiang, et al. Service continuity based data delivery optimization in satellite-terrestrial networks, IEEE Transactions on Vehicular Technology, 2023, 72(10): 13604-13617.
 - **F. Wang**, D. Jiang, et al. Adaboost-based security level classification of mobile intelligent terminals, Journal of Supercomputing, 2019, 75(11): 7460-7478. (ESI Hot Paper)
-- **F. Wang**, D. Jiang, et al. An adaptive routing algorithm for integrated information networks, China Communications, 2019, 7(1): 196-207. (Google Scholar citations: 101)
+- **F. Wang**, D. Jiang, et al. An adaptive routing algorithm for integrated information networks, China Communications, 2019, 7(1): 196-207.
 - **F. Wang**, D. Jiang, et al. A dynamic resource scheduling scheme in edge computing satellite networks, Mobile Networks and Applications, 2021, 26(2): 597-608.
 - **F. Wang**, D. Jiang, et al. An adaboost based link planning scheme in space-air-ground integrated networks, Mobile Networks and Applications, 2021, 26(2): 669-680.
 - **F. Wang**, D. Jiang, et al. Security level protection for intelligent terminals based on differential privacy, Telecommunication Systems, 2020, 74(4): 425-435.
