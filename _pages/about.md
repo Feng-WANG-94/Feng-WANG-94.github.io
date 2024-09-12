@@ -19,13 +19,14 @@ redirect_from:
 
 I am now a postdoctoral research fellow working with Prof. [Tony Q. S. Quek](https://people.sutd.edu.sg/~tonyquek/) at Singapore University of Technology and Design (SUTD). I obtained my Ph.D. in Navigation, Guidance and Control at Dec. 2022 under the guidance of Prof. Dingde Jiang from the University of Electronic Science and Technology of China (UESTC), where I also completed my M.S. in Electronics and Communication Engineering under the guidance of Prof. Hong Wen at Jul. 2018 and B.S. in Information and Computational Science at Jul. 2016. During my doctoral studies, I also spent one year as a visiting Ph.D. student at SUTD under the guidance of Prof. Tony Quek.
 
-My research interest includes UE mobility management in integrated terrestrial and non-terrestrial networks (NTN), and networking and routing in integrated GEO-MEO-LEO satellite networks. 
+My research interest includes mobility management in integrated terrestrial and non-terrestrial networks (NTN), and networking & routing in GEO-MEO-LEO satellite networks. 
 
 
 # Selected Publications 
 
 **Journal**：
-- **F. Wang**, T. Quek, et al. Seamless handover in LEO based non-terrestrial networks: service continuity and optimization, IEEE Transactions on Communications, 2023, 71(2): 1008-1023.
+- **F. Wang**, S. Zhang, J. Shi, Z. Li and T. Quek, Sustainable UAV Mobility Support in Integrated Terrestrial and Non-terrestrial Networks, IEEE Transactions on Wireless Communications, 2024.
+- **F. Wang**, D. Jiang, T. Quek, et al. Seamless handover in LEO based non-terrestrial networks: service continuity and optimization, IEEE Transactions on Communications, 2023, 71(2): 1008-1023.
 - **F. Wang**, T. Quek, et al. Dynamic networking for continuable transmission optimization in LEO satellite networks, IEEE Transactions on Vehicular Technology, 2023, 72(5): 6639-6653, 2023.
 - D. Jiang, **F. Wang\***, et al. QoE-aware efficient content distribution scheme for satellite-terrestrial networks, IEEE Transactions on Mobile Computing, 2023, 22(1): 443-458. (ESI highly cited paper, IEEE Best Readings)
 - **F. Wang**, D. Jiang, et al. Fuzzy-CNN based multi-task routing for integrated satellite-terrestrial networks, IEEE Transactions on Vehicular Technology, 2022, 71(2): 1913-1926.
