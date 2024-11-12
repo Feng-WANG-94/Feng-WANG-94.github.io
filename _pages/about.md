@@ -25,6 +25,7 @@ My research interest includes mobility management in integrated terrestrial and 
 # Selected Publications 
 
 **Journal**：
+- **F. Wang**, G. Geraci, L. Li, P. Wang and T. Q. S. Quek, Wireless Edge Content Broadcast via Integrated Terrestrial and Non-terrestrial Networks, IEEE Transactions on Communications, 2024.
 - **F. Wang**, S. Zhang, J. Shi, Z. Li and T. Quek, Sustainable UAV Mobility Support in Integrated Terrestrial and Non-terrestrial Networks, IEEE Transactions on Wireless Communications, 2024.
 - **F. Wang**, D. Jiang, T. Quek, et al. Seamless handover in LEO based non-terrestrial networks: service continuity and optimization, IEEE Transactions on Communications, 2023, 71(2): 1008-1023.
 - **F. Wang**, T. Quek, et al. Dynamic networking for continuable transmission optimization in LEO satellite networks, IEEE Transactions on Vehicular Technology, 2023, 72(5): 6639-6653, 2023.
