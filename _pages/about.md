@@ -25,9 +25,13 @@ My research interest includes connectivity management in integrated terrestrial 
 # Selected Publications 
 
 **Journal**：
+- **F. Wang**, H. Yang, S. Zhang, J. Shi, Z. Li, and T. Q. S. Quek, Mobility-Aware Multicast Orchestration for Low-Altitude UAVs with Integrated Terrestrial and Non-Terrestrial Networks, IEEE Transactions on Communications, 2025.
+- **F. Wang**, S. Zhang, EK. Hong, and T. Q. S. Quek, Constellation as a Service: Tailored Connectivity Management in Direct-Satellite-to-Device Networks, IEEE Communications Magazine, 2025.
+- S. Zhang, **F. Wang**, Y. Mao, AL. Jin, and T. Q. S. Quek, Rate-Splitting Multiple Access for Near-Field Communications with Imperfect CSIT and SIC, IEEE Transactions on Communications, 2025.
+- S. Zhang, **F. Wang\***, H. Yang, J. Si, Z. Li, and T. Q. S. Quek, Fast-Adaptive Beamforming for Rate-Splitting Multiple Access-aided Space-Air-Ground Integrated Networks with Few-Shot Samples, IEEE Transactions on Wireless Communications, 2025.
 - **F. Wang**, S. Zhang, H. Yang, and T. Q. S. Quek, Non-Terrestrial Networking for 6G: Evolution, Opportunities, and Future Directions, Engineering, 2025.
-- **F. Wang**, G. Geraci, L. Li, P. Wang and T. Q. S. Quek, Wireless Edge Content Broadcast via Integrated Terrestrial and Non-terrestrial Networks, IEEE Transactions on Communications, 2024.
-- **F. Wang**, S. Zhang, J. Shi, Z. Li and T. Q. S. Quek, Sustainable UAV Mobility Support in Integrated Terrestrial and Non-terrestrial Networks, IEEE Transactions on Wireless Communications, 2024.
+- **F. Wang**, G. Geraci, L. Li, P. Wang, and T. Q. S. Quek, Wireless Edge Content Broadcast via Integrated Terrestrial and Non-terrestrial Networks, IEEE Transactions on Communications, 2024.
+- **F. Wang**, S. Zhang, J. Shi, Z. Li, and T. Q. S. Quek, Sustainable UAV Mobility Support in Integrated Terrestrial and Non-terrestrial Networks, IEEE Transactions on Wireless Communications, 2024.
 - **F. Wang**, D. Jiang, T. Q. S. Quek, et al. Seamless handover in LEO based non-terrestrial networks: service continuity and optimization, IEEE Transactions on Communications, 2023, 71(2): 1008-1023.
 - **F. Wang**, D. Jiang, T. Q. S. Quek, et al. Dynamic networking for continuable transmission optimization in LEO satellite networks, IEEE Transactions on Vehicular Technology, 2023, 72(5): 6639-6653, 2023.
 - D. Jiang, **F. Wang\***, et al. QoE-aware efficient content distribution scheme for satellite-terrestrial networks, IEEE Transactions on Mobile Computing, 2023, 22(1): 443-458. (ESI highly cited paper, IEEE Best Readings)
@@ -59,10 +63,12 @@ My research interest includes connectivity management in integrated terrestrial 
 
 
 # Academic Services
-- **Reviewer** for TOP Journal/Magazine/Conference: IEEE JSAC, TWC, TCOM, TVT, IoTJ, Network, Wireless Communications, Communications Magazine, ICC, Globecom
+- **Reviewer** for TOP Journal/Magazine/Conference: IEEE JSAC, TMC, TWC, TCOM, TVT, IoTJ, IEEE Network, Wireless Communications, Communications Magazine, ICC, Globecom
 - **Conference Session Chair**: Globecom’19, Globecom’23, Simutools’19, Simutools’20;
 - **TPC member**: Globecom’23, Globecom’24, Globecom’25, ICC’24, ICC’25; 
 - **Keynote Speaker**: Simutools’20;
-- **Tutorial Speaker**: IEEE ICCT’24;
+- **Tutorial Speaker**: IEEE ICCT’24; IEEE ICCT’25;
+- **Youth Editor**: Journal of Information and Intelligence (JII);
+- **Guest Editor**: Electronics;
 
 
