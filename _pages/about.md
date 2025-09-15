@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am now a postdoctoral research fellow working with Prof. [Tony Q. S. Quek](https://people.sutd.edu.sg/~tonyquek/) at Singapore University of Technology and Design (SUTD). I obtained my Ph.D. in Navigation, Guidance and Control at Dec. 2022 under the guidance of Prof. Dingde Jiang from the University of Electronic Science and Technology of China (UESTC), where I also completed my B.S. in Information and Computational Science at Jul. 2016. During my doctoral studies, I also spent one year as a visiting Ph.D. student at SUTD under the guidance of Prof. Tony Quek.
+I am now a postdoctoral research fellow working with Prof. [Tony Q. S. Quek](https://people.sutd.edu.sg/~tonyquek/) at Singapore University of Technology and Design (SUTD). I obtained my Ph.D. in Navigation, Guidance and Control at 2022 under the guidance of Prof. Dingde Jiang from the University of Electronic Science and Technology of China (UESTC), where I also completed my B.S. in Information and Computational Science at 2016. During my doctoral studies, I also spent one year as a visiting Ph.D. student at SUTD under the guidance of Prof. Tony Q. S. Quek.
 
-My research interest includes connectivity management in integrated terrestrial and non-terrestrial networks (NTN), hybrid FSO/RF networking & routing in GEO-MEO-LEO satellite networks, and service orchestration for space-air-ground integrated networks (SAGIN). 
+My research interests include non-terrestrial networks (NTN), access and mobility management in integrated TN-NTN, and service orchestration for space-air-ground integrated networks (SAGIN). 
 
 
 # Selected Publications 
@@ -27,7 +27,8 @@ My research interest includes connectivity management in integrated terrestrial 
 **Journal**：
 - **F. Wang**, H. Yang, S. Zhang, J. Shi, Z. Li, and T. Q. S. Quek, Mobility-Aware Multicast Orchestration for Low-Altitude UAVs with Integrated Terrestrial and Non-Terrestrial Networks, IEEE Transactions on Communications, 2025.
 - **F. Wang**, S. Zhang, EK. Hong, and T. Q. S. Quek, Constellation as a Service: Tailored Connectivity Management in Direct-Satellite-to-Device Networks, IEEE Communications Magazine, 2025.
-- S. Zhang, **F. Wang**, Y. Mao, AL. Jin, and T. Q. S. Quek, Rate-Splitting Multiple Access for Near-Field Communications with Imperfect CSIT and SIC, IEEE Transactions on Communications, 2025.
+- S. Zhang, **F. Wang\***, J. Shi, AL. Jin, Z. Li, and T. Q. S. Quek, MetaRS: A Self-Intelligent Rate-Splitting Approach for Co-Existing Space-Air-Ground Integrated Networks, IEEE Transactions on Wireless Communications, 2025.
+- S. Zhang, **F. Wang\***, Y. Mao, AL. Jin, and T. Q. S. Quek, Rate-Splitting Multiple Access for Near-Field Communications with Imperfect CSIT and SIC, IEEE Transactions on Communications, 2025.
 - S. Zhang, **F. Wang\***, H. Yang, J. Si, Z. Li, and T. Q. S. Quek, Fast-Adaptive Beamforming for Rate-Splitting Multiple Access-aided Space-Air-Ground Integrated Networks with Few-Shot Samples, IEEE Transactions on Wireless Communications, 2025.
 - **F. Wang**, S. Zhang, H. Yang, and T. Q. S. Quek, Non-Terrestrial Networking for 6G: Evolution, Opportunities, and Future Directions, Engineering, 2025.
 - **F. Wang**, G. Geraci, L. Li, P. Wang, and T. Q. S. Quek, Wireless Edge Content Broadcast via Integrated Terrestrial and Non-terrestrial Networks, IEEE Transactions on Communications, 2024.
@@ -64,11 +65,13 @@ My research interest includes connectivity management in integrated terrestrial 
 
 # Academic Services
 - **Reviewer** for TOP Journal/Magazine/Conference: IEEE JSAC, TMC, TWC, TCOM, TVT, IoTJ, IEEE Network, Wireless Communications, Communications Magazine, ICC, Globecom
-- **Conference Session Chair**: Globecom’19, Globecom’23, Simutools’19, Simutools’20;
+- **Conference Session Chair**: Globecom’23, Simutools’19, Simutools’20;
 - **TPC member**: Globecom’23, Globecom’24, Globecom’25, ICC’24, ICC’25; 
 - **Keynote Speaker**: Simutools’20;
 - **Tutorial Speaker**: IEEE ICCT’24; IEEE ICCT’25;
+- **Invited Speaker**: IEEE ICCT’25;
 - **Youth Editor**: Journal of Information and Intelligence (JII);
-- **Guest Editor**: Electronics;
+- **SI Guest Editor**: Electronics, Network;
+- **TPC Chairs**: Simutools’21;
 
 
