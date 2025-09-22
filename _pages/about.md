@@ -35,10 +35,10 @@ My research interests include non-terrestrial networks (NTN), access and mobilit
 - **F. Wang**, S. Zhang, J. Shi, Z. Li, and T. Q. S. Quek, Sustainable UAV Mobility Support in Integrated Terrestrial and Non-terrestrial Networks, IEEE Transactions on Wireless Communications, 2024.
 - **F. Wang**, D. Jiang, T. Q. S. Quek, et al. Seamless handover in LEO based non-terrestrial networks: service continuity and optimization, IEEE Transactions on Communications, 2023, 71(2): 1008-1023.
 - **F. Wang**, D. Jiang, T. Q. S. Quek, et al. Dynamic networking for continuable transmission optimization in LEO satellite networks, IEEE Transactions on Vehicular Technology, 2023, 72(5): 6639-6653, 2023.
-- D. Jiang, **F. Wang\***, et al. QoE-aware efficient content distribution scheme for satellite-terrestrial networks, IEEE Transactions on Mobile Computing, 2023, 22(1): 443-458. (ESI highly cited paper, IEEE Best Readings)
+- D. Jiang, **F. Wang\***, et al. QoE-aware efficient content distribution scheme for satellite-terrestrial networks, IEEE Transactions on Mobile Computing, 2023, 22(1): 443-458. (**ESI highly cited paper**, **IEEE Best Readings**)
 - **F. Wang**, D. Jiang, et al. Fuzzy-CNN based multi-task routing for integrated satellite-terrestrial networks, IEEE Transactions on Vehicular Technology, 2022, 71(2): 1913-1926.
 - **F. Wang**, D. Jiang, et al. Service continuity based data delivery optimization in satellite-terrestrial networks, IEEE Transactions on Vehicular Technology, 2023, 72(10): 13604-13617.
-- **F. Wang**, D. Jiang, et al. Adaboost-based security level classification of mobile intelligent terminals, Journal of Supercomputing, 2019, 75(11): 7460-7478. (ESI Hot Paper)
+- **F. Wang**, D. Jiang, et al. Adaboost-based security level classification of mobile intelligent terminals, Journal of Supercomputing, 2019, 75(11): 7460-7478. (**ESI Hot Paper**)
 - **F. Wang**, D. Jiang, et al. An adaptive routing algorithm for integrated information networks, China Communications, 2019, 7(1): 196-207.
 - **F. Wang**, D. Jiang, et al. A dynamic resource scheduling scheme in edge computing satellite networks, Mobile Networks and Applications, 2021, 26(2): 597-608.
 - **F. Wang**, D. Jiang, et al. An adaboost based link planning scheme in space-air-ground integrated networks, Mobile Networks and Applications, 2021, 26(2): 669-680.
@@ -48,7 +48,7 @@ My research interests include non-terrestrial networks (NTN), access and mobilit
 - **F. Wang**, G. Geraci, T. Quek, et al. Optimizing cache content placement in integrated terrestrial and non-terrestrial networks, Proceedings of the IEEE Global Communications Conference (GLOBECOM), 2023, pp1-6.
 - **F. Wang**, D. Jiang, et al. Fine-grained resource management for edge computing satellite networks, Proceedings of the IEEE Global Communications Conference (GLOBECOM), 2019, pp1-6.
 - **F. Wang**, D. Jiang, et al. Branch-based link planning for time-varying space-air integrated networks, Proceedings of the IEEE International Conference on Communications (ICC), 2020, pp1-6.
-- **F. Wang**, D. Jiang, S. Qi, et al. Dynamic computing resource adjustment in edge computing satellite networks, in Proc. Simutools’19, 2019, pp135-145. (Simutools2019 Best Paper Award)
+- **F. Wang**, D. Jiang, S. Qi, et al. Dynamic computing resource adjustment in edge computing satellite networks, in Proc. Simutools’19, 2019, pp135-145. (**Simutools2019 Best Paper Award**)
 - **F. Wang**, D. Jiang, et al. Time-varying contact management with dynamic programming for LEO satellite networks, IEEE 17th International Conference on Mobility, Sensing and Networking (MSN), 2021, pp1-6.
 - **F. Wang**, D. Jiang, et al. Time-extended pathfinding optimization in mobile LEO satellite communication networks, IEEE 94th Vehicular Technology Conference (VTC2021-Fall), 2021, pp1-6.
 - **F. Wang**, D. Jiang, et al. An intelligent relay node selection scheme in space-air-ground integrated networks, in Proc. Simutools’19, 2019, pp157-167.
@@ -64,14 +64,15 @@ My research interests include non-terrestrial networks (NTN), access and mobilit
 
 
 # Academic Services
-- **Reviewer** for TOP Journal/Magazine/Conference: IEEE JSAC, TMC, TWC, TCOM, TVT, IoTJ, IEEE Network, Wireless Communications, Communications Magazine, ICC, Globecom
-- **Conference Session Chair**: Globecom’23, Simutools’19, Simutools’20;
-- **TPC member**: Globecom’23, Globecom’24, Globecom’25, ICC’24, ICC’25; 
+- **Youth Editor**: Journal of Information and Intelligence (JII);
+- **SI Guest Editor**: Electronics, Network;
 - **Keynote Speaker**: Simutools’20;
 - **Tutorial Speaker**: IEEE ICCT’24; IEEE ICCT’25;
 - **Invited Speaker**: IEEE ICCT’25;
-- **Youth Editor**: Journal of Information and Intelligence (JII);
-- **SI Guest Editor**: Electronics, Network;
 - **TPC Chairs**: Simutools’21;
+- **Conference Session Chair**: IEEE Globecom’23, Simutools’19, Simutools’20;
+- **TPC member**: IEEE Globecom’23, Globecom’24, Globecom’25, ICC’24, ICC’25; 
+- **Reviewer** for Journal/Magazine/Conference: IEEE JSAC, TMC, TWC, TCOM, IEEE Network, Wireless Communications, Communications Magazine, IEEE ICC, Globecom
+
 
 
