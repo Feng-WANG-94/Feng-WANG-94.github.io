@@ -32,10 +32,10 @@ My research interests include non-terrestrial networks (NTN), access and mobilit
 - S. Zhang, **F. Wang\***, H. Yang, J. Si, Z. Li, and T. Q. S. Quek, Fast-Adaptive Beamforming for Rate-Splitting Multiple Access-aided Space-Air-Ground Integrated Networks with Few-Shot Samples, IEEE Transactions on Wireless Communications, 2025.
 - **F. Wang**, S. Zhang, H. Yang, and T. Q. S. Quek, Non-Terrestrial Networking for 6G: Evolution, Opportunities, and Future Directions, Engineering, 2025.
 - **F. Wang**, G. Geraci, L. Li, P. Wang, and T. Q. S. Quek, Wireless Edge Content Broadcast via Integrated Terrestrial and Non-terrestrial Networks, IEEE Transactions on Communications, 2024.
-- **F. Wang**, S. Zhang, J. Shi, Z. Li, and T. Q. S. Quek, Sustainable UAV Mobility Support in Integrated Terrestrial and Non-terrestrial Networks, IEEE Transactions on Wireless Communications, 2024.
-- **F. Wang**, D. Jiang, T. Q. S. Quek, et al. Seamless handover in LEO based non-terrestrial networks: service continuity and optimization, IEEE Transactions on Communications, 2023, 71(2): 1008-1023.
+- **F. Wang**, S. Zhang, J. Shi, Z. Li, and T. Q. S. Quek, Sustainable UAV Mobility Support in Integrated Terrestrial and Non-terrestrial Networks, IEEE Transactions on Wireless Communications, 2024. 
+- **F. Wang**, D. Jiang, T. Q. S. Quek, et al. Seamless handover in LEO based non-terrestrial networks: service continuity and optimization, IEEE Transactions on Communications, 2023, 71(2): 1008-1023. (**Popular paper**)
 - **F. Wang**, D. Jiang, T. Q. S. Quek, et al. Dynamic networking for continuable transmission optimization in LEO satellite networks, IEEE Transactions on Vehicular Technology, 2023, 72(5): 6639-6653, 2023.
-- D. Jiang, **F. Wang\***, et al. QoE-aware efficient content distribution scheme for satellite-terrestrial networks, IEEE Transactions on Mobile Computing, 2023, 22(1): 443-458. (**ESI highly cited paper**, **IEEE Best Readings**)
+- D. Jiang, **F. Wang\***, et al. QoE-aware efficient content distribution scheme for satellite-terrestrial networks, IEEE Transactions on Mobile Computing, 2023, 22(1): 443-458. (**ESI highly cited paper**, **Popular paper**, **IEEE Best Readings**)
 - **F. Wang**, D. Jiang, et al. Fuzzy-CNN based multi-task routing for integrated satellite-terrestrial networks, IEEE Transactions on Vehicular Technology, 2022, 71(2): 1913-1926.
 - **F. Wang**, D. Jiang, et al. Service continuity based data delivery optimization in satellite-terrestrial networks, IEEE Transactions on Vehicular Technology, 2023, 72(10): 13604-13617.
 - **F. Wang**, D. Jiang, et al. Adaboost-based security level classification of mobile intelligent terminals, Journal of Supercomputing, 2019, 75(11): 7460-7478. (**ESI Hot Paper**)
