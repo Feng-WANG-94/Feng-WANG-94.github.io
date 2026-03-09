@@ -46,6 +46,7 @@ My research interests include non-terrestrial networks (NTN), TN-NTN integration
 - **F. Wang**, D. Jiang, et al. Security level protection for intelligent terminals based on differential privacy, Telecommunication Systems, 2020, 74(4): 425-435.
 
 **Conference**：
+- X. Li, **F. Wang\***, L. Zhu, T. Quek, et al. DRL-Enabled Latency-Aware UAV Relays for Integrated Satellite–Terrestrial Networks, Proceedings of the IEEE Wireless Communications and Networking Conference (WCNC), 2026, pp1-6.
 - **F. Wang**, G. Geraci, T. Quek, et al. Optimizing cache content placement in integrated terrestrial and non-terrestrial networks, Proceedings of the IEEE Global Communications Conference (GLOBECOM), 2023, pp1-6.
 - **F. Wang**, D. Jiang, et al. Fine-grained resource management for edge computing satellite networks, Proceedings of the IEEE Global Communications Conference (GLOBECOM), 2019, pp1-6.
 - **F. Wang**, D. Jiang, et al. Branch-based link planning for time-varying space-air integrated networks, Proceedings of the IEEE International Conference on Communications (ICC), 2020, pp1-6.
@@ -57,6 +58,7 @@ My research interests include non-terrestrial networks (NTN), TN-NTN integration
 
 
 # Honors and Awards
+- *2026* Featured in SUTD News Highlight for first-author paper in Engineering, Non-Terrestrial Networking for 6G: Evolution, Opportunities, and Future Directions, Feb. 2026.
 - *2023* Best Readings, IEEE Communications Society: QoE-aware efficient content distribution scheme for satellite-terrestrial networks. 
 - *2022* Outstanding Student, UESTC.
 - *2022* Outstanding Graduate, Sichuan Province and UESTC.
@@ -69,7 +71,8 @@ My research interests include non-terrestrial networks (NTN), TN-NTN integration
 - **SI Guest Editor**: Electronics, Network;
 - **Keynote Speaker**: Simutools’20;
 - **Tutorial Speaker**: IEEE ICCT’24; IEEE ICCT’25;
-- **Invited Speaker**: IEEE ICCT’25;
+- **Invited Speaker**: IEEE WCCCT 2026; IEEE ICCT’25;
+- **Conference Track Chairs**: ISoIRS 2026 (Track Chair, Lead)、ICCCS 2026(Track Chair, Lead)、IEEE WCNC 2026 (Workshop Chair)
 - **TPC Chairs**: Simutools’21;
 - **Conference Session Chair**: IEEE Globecom’23, Simutools’19, Simutools’20;
 - **TPC member**: IEEE Globecom’23, Globecom’24, Globecom’25, ICC’24, ICC’25; 
