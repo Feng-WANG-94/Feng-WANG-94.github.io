@@ -58,7 +58,7 @@ My research interests include non-terrestrial networks (NTN), TN-NTN integration
 
 
 # Honors and Awards
-- *2026* Featured in SUTD News Highlight for first-author paper in Engineering, Non-Terrestrial Networking for 6G: Evolution, Opportunities, and Future Directions, Feb. 2026.
+- *2026* Featured in SUTD News Highlight for first-author paper in _Engineering_, Non-Terrestrial Networking for 6G: Evolution, Opportunities, and Future Directions, Feb. 2026.
 - *2023* Best Readings, IEEE Communications Society: QoE-aware efficient content distribution scheme for satellite-terrestrial networks. 
 - *2022* Outstanding Student, UESTC.
 - *2022* Outstanding Graduate, Sichuan Province and UESTC.
