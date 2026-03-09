@@ -17,14 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am now a postdoctoral research fellow working with Prof. [Tony Q. S. Quek](https://people.sutd.edu.sg/~tonyquek/) at Singapore University of Technology and Design (SUTD). I obtained my Ph.D. in Navigation, Guidance and Control at 2022 under the guidance of Prof. Dingde Jiang from the University of Electronic Science and Technology of China (UESTC), where I also completed my B.S. in Information and Computational Science at 2016. During my doctoral studies, I also spent one year as a visiting Ph.D. student at SUTD under the guidance of Prof. Tony Q. S. Quek.
+I am now a postdoctoral research fellow working with Prof. [Tony Q. S. Quek](https://people.sutd.edu.sg/~tonyquek/) at Singapore University of Technology and Design (SUTD). I obtained my Ph.D. in Navigation, Guidance and Control at 2022 from the University of Electronic Science and Technology of China (UESTC), where I also completed my B.S. in Information and Computational Science at 2016. During my doctoral studies, I also spent one year as a visiting Ph.D. student at SUTD under the guidance of Prof. Tony Q. S. Quek.
 
-My research interests include non-terrestrial networks (NTN), access and mobility management in integrated TN-NTN, and service orchestration for space-air-ground integrated networks (SAGIN). 
+My research interests include non-terrestrial networks (NTN), TN-NTN integration, AI-RAN on NTN, and service orchestration for space-air-ground integrated networks (SAGIN). 
 
 
 # Selected Publications 
 
 **Journal**：
+- H. Yang, **F. Wang\***, W. Liu, W. Pu, H. Zhou, and T. Q. S. Quek, Reliability-Enhanced Network Slicing for Time-Varying Software-Defined Space Information Network, IEEE Transactions on Mobile Computing, 2026.
 - **F. Wang**, H. Yang, S. Zhang, J. Shi, Z. Li, and T. Q. S. Quek, Mobility-Aware Multicast Orchestration for Low-Altitude UAVs with Integrated Terrestrial and Non-Terrestrial Networks, IEEE Transactions on Communications, 2025.
 - **F. Wang**, S. Zhang, EK. Hong, and T. Q. S. Quek, Constellation as a Service: Tailored Connectivity Management in Direct-Satellite-to-Device Networks, IEEE Communications Magazine, 2025.
 - S. Zhang, **F. Wang\***, J. Shi, AL. Jin, Z. Li, and T. Q. S. Quek, MetaRS: A Self-Intelligent Rate-Splitting Approach for Co-Existing Space-Air-Ground Integrated Networks, IEEE Transactions on Wireless Communications, 2025.
