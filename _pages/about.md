@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am now a postdoctoral research fellow working with Prof. [Tony Q. S. Quek](https://people.sutd.edu.sg/~tonyquek/) at Singapore University of Technology and Design (SUTD). I obtained my Ph.D. in Navigation, Guidance and Control at 2022 from the University of Electronic Science and Technology of China (UESTC), where I also completed my B.S. in Information and Computational Science at 2016. During my doctoral studies, I also spent one year as a visiting Ph.D. student at SUTD under the guidance of Prof. Tony Q. S. Quek.
+I am now a postdoctoral research fellow working with Prof. [Tony Q. S. Quek](https://people.sutd.edu.sg/~tonyquek/) at Singapore University of Technology and Design (SUTD). I obtained my Ph.D. at 2022 from the University of Electronic Science and Technology of China (UESTC), where I also completed my B.S. at 2016. During my doctoral studies, I also spent one year as a visiting Ph.D. student at SUTD under the guidance of Prof. Tony Q. S. Quek.
 
 My research interests include non-terrestrial networks (NTN), TN-NTN integration, AI-RAN on NTN, and service orchestration for space-air-ground integrated networks (SAGIN). 
 
@@ -25,13 +25,14 @@ My research interests include non-terrestrial networks (NTN), TN-NTN integration
 # Selected Publications 
 
 **Journal**：
+- **F. Wang**, H. Yang, S Zhang, X He, L Zhu, and T. Q. S. Quek, GEMS: GAT-Embedded Mobility for Dual Connectivity in Integrated Terrestrial and Non-terrestrial Networks, IEEE Transactions on Mobile Computing, 2026.
 - H. Yang, **F. Wang\***, W. Liu, W. Pu, H. Zhou, and T. Q. S. Quek, Reliability-Enhanced Network Slicing for Time-Varying Software-Defined Space Information Network, IEEE Transactions on Mobile Computing, 2026.
 - **F. Wang**, H. Yang, S. Zhang, J. Shi, Z. Li, and T. Q. S. Quek, Mobility-Aware Multicast Orchestration for Low-Altitude UAVs with Integrated Terrestrial and Non-Terrestrial Networks, IEEE Transactions on Communications, 2025.
 - **F. Wang**, S. Zhang, EK. Hong, and T. Q. S. Quek, Constellation as a Service: Tailored Connectivity Management in Direct-Satellite-to-Device Networks, IEEE Communications Magazine, 2025.
+- **F. Wang**, S. Zhang, H. Yang, and T. Q. S. Quek, Non-Terrestrial Networking for 6G: Evolution, Opportunities, and Future Directions, Engineering, 2025.
 - S. Zhang, **F. Wang\***, J. Shi, AL. Jin, Z. Li, and T. Q. S. Quek, MetaRS: A Self-Intelligent Rate-Splitting Approach for Co-Existing Space-Air-Ground Integrated Networks, IEEE Transactions on Wireless Communications, 2025.
 - S. Zhang, **F. Wang\***, Y. Mao, AL. Jin, and T. Q. S. Quek, Rate-Splitting Multiple Access for Near-Field Communications with Imperfect CSIT and SIC, IEEE Transactions on Communications, 2025.
 - S. Zhang, **F. Wang\***, H. Yang, J. Si, Z. Li, and T. Q. S. Quek, Fast-Adaptive Beamforming for Rate-Splitting Multiple Access-aided Space-Air-Ground Integrated Networks with Few-Shot Samples, IEEE Transactions on Wireless Communications, 2025.
-- **F. Wang**, S. Zhang, H. Yang, and T. Q. S. Quek, Non-Terrestrial Networking for 6G: Evolution, Opportunities, and Future Directions, Engineering, 2025.
 - **F. Wang**, G. Geraci, L. Li, P. Wang, and T. Q. S. Quek, Wireless Edge Content Broadcast via Integrated Terrestrial and Non-terrestrial Networks, IEEE Transactions on Communications, 2024.
 - **F. Wang**, S. Zhang, J. Shi, Z. Li, and T. Q. S. Quek, Sustainable UAV Mobility Support in Integrated Terrestrial and Non-terrestrial Networks, IEEE Transactions on Wireless Communications, 2024. 
 - **F. Wang**, D. Jiang, T. Q. S. Quek, et al. Seamless handover in LEO based non-terrestrial networks: service continuity and optimization, IEEE Transactions on Communications, 2023, 71(2): 1008-1023. (**Popular paper**)
@@ -70,13 +71,13 @@ My research interests include non-terrestrial networks (NTN), TN-NTN integration
 - **Youth Editor**: Journal of Information and Intelligence (JII);
 - **SI Guest Editor**: Electronics, Network;
 - **Keynote Speaker**: Simutools’20;
-- **Tutorial Speaker**: IEEE ICCT’24; IEEE ICCT’25;
-- **Invited Speaker**: IEEE WCCCT 2026; IEEE ICCT’25;
+- **Tutorial Speaker**: IEEE ICCT’24; IEEE ICCT’25; **IEEE GLOBECOM’26**;
+- **Invited Speaker**: IEEE WCCCT’26; IEEE ICCT’25;
 - **Conference Track Chairs**: ISoIRS 2026 (Track Chair, Lead)、ICCCS 2026(Track Chair, Lead)、IEEE WCNC 2026 (Workshop Chair)
 - **TPC Chairs**: Simutools’21;
 - **Conference Session Chair**: IEEE Globecom’23, Simutools’19, Simutools’20;
 - **TPC member**: IEEE Globecom’23, Globecom’24, Globecom’25, ICC’24, ICC’25; 
-- **Reviewer** for Journal/Magazine/Conference: IEEE JSAC, TMC, TWC, TCOM, IEEE Network, Wireless Communications, Communications Magazine, IEEE ICC, Globecom
+- **Reviewer** for Journal/Magazine/Conference: IEEE JSAC, TMC, TWC, TCOM, IEEE Network, Wireless Communications, Communications Magazine, IEEE ICC, GLOBECOM
 
 
 
