@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am now a postdoctoral research fellow working with Prof. [Tony Q. S. Quek](https://people.sutd.edu.sg/~tonyquek/) at Singapore University of Technology and Design (SUTD). I obtained my Ph.D. at 2022 from the University of Electronic Science and Technology of China (UESTC), where I also completed my B.S. at 2016. During my doctoral studies, I also spent one year as a visiting Ph.D. student at SUTD under the guidance of Prof. Tony Q. S. Quek.
+I am currently with the National Key Laboratory of Wireless Communications, University of Electronic Science and Technology of China (UESTC). From 2023 to 2026, I was a Postdoctoral Research Fellow at the Singapore University of Technology and Design (SUTD), working with Prof. [Tony Q. S. Quek](https://people.sutd.edu.sg/~tonyquek/). I received my Ph.D. degree in 2022 and B.S. degree in 2016 from UESTC. During my Ph.D. studies, I also spent one year as a visiting Ph.D. student at SUTD under the supervision of Prof. Tony Q. S. Quek.
 
-My research interests include non-terrestrial networks (NTN), TN-NTN integration, AI-RAN on NTN, and service orchestration for space-air-ground integrated networks (SAGIN). 
+My research interests lie in non-terrestrial networks (NTN), 6G TN-NTN integration, AI-RAN for NTN, and service orchestration for space-air-ground integrated networks (SAGIN). 
 
 
 # Selected Publications 
