@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Feng Wang"
   avatar           : "images/Feng_Photo.jpg"
-  bio              : "Lecturer"
+  #bio              : "Lecturer"
   location         : "China"
   employer         :
   pubmed           : 
