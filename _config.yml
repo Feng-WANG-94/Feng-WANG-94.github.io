@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Feng Wang"
-description              : "Singapore University of Technology and Design (SUTD)"
+description              : "University of Electronic Science and Technology of China (UESTC)"
 repository               : "Feng-WANG-94/Feng-WANG-94.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Feng Wang"
   avatar           : "images/android-chrome-192x192.png"
-  bio              : "Postdoctoral research fellow"
-  location         : "Singapore"
+  bio              : "Lecturer"
+  location         : "China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=4VeEDekAAAAJ&hl=en"
