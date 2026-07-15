@@ -68,11 +68,11 @@ My research interests lie in non-terrestrial networks (NTN), 6G TN-NTN integrati
 
 
 # Academic Services
-- **Youth Editor**: Journal of Information and Intelligence (JII);
+- **Youth Editor**: Journal of Communications and Information Networks (JCIN), Journal of Information and Intelligence (JII);
 - **SI Guest Editor**: Electronics, Network;
 - **Keynote Speaker**: Simutools’20;
 - **Tutorial Speaker**: IEEE ICCT’24; IEEE ICCT’25; **IEEE GLOBECOM’26**;
-- **Invited Speaker**: IEEE WCCCT’26; IEEE ICCT’25;
+- **Invited Speaker**: IEEE WCCCT’26; IEEE ICCT’25; IEEE ICCT’26;
 - **Conference Track Chairs**: ISoIRS 2026 (Track Chair, Lead)、ICCCS 2026(Track Chair, Lead)、IEEE WCNC 2026 (Workshop Chair)
 - **TPC Chairs**: Simutools’21;
 - **Conference Session Chair**: IEEE Globecom’23, Simutools’19, Simutools’20;
