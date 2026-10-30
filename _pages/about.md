@@ -25,8 +25,10 @@ My research interests lie in non-terrestrial networks (NTN), 6G TN-NTN integrati
 # Selected Publications 
 
 **Journal**：
+- **F. Wang\***, X. He, J. Li, H. Yang, L. Zhu, and T. Q. S. Quek, SpaceCG: Bridging Satellite Snapshots via A Mobility Graph for Continuity-Aware Handover Optimization in Non-Terrestrial Networks, IEEE Transactions on Mobile Computing, to appear.
+- H. Feng, **F. Wang\***, J. Lai, Q. Wu, and L. Zhu, QoE-Oriented Streaming Power Allocation in LEO Satellite Networks, IEEE Open Journal of the Communications Society, 2026.
 - Xintong. Li, **F. Wang\***, Q. Wu, C. Liu, L. Xiao, L. Zhu, and T. Q. S. Quek, Agentic and Embodied UAV Relays for Satellite–Aerial Networking: End-to-End Latency-Aware Optimization, IEEE Transactions on Cognitive Communications and Networking, 2026.
-- **F. Wang**, H. Yang, S Zhang, X He, L Zhu, and T. Q. S. Quek, GEMS: GAT-Embedded Mobility for Dual Connectivity in Integrated Terrestrial and Non-terrestrial Networks, IEEE Transactions on Mobile Computing, 2026.
+- **F. Wang**, H. Yang, S. Zhang, X. He, L. Zhu, and T. Q. S. Quek, GEMS: GAT-Embedded Mobility for Dual Connectivity in Integrated Terrestrial and Non-terrestrial Networks, IEEE Transactions on Mobile Computing, 2026.
 - H. Yang, **F. Wang\***, W. Liu, W. Pu, H. Zhou, and T. Q. S. Quek, Reliability-Enhanced Network Slicing for Time-Varying Software-Defined Space Information Network, IEEE Transactions on Mobile Computing, 2026.
 - **F. Wang**, H. Yang, S. Zhang, J. Shi, Z. Li, and T. Q. S. Quek, Mobility-Aware Multicast Orchestration for Low-Altitude UAVs with Integrated Terrestrial and Non-Terrestrial Networks, IEEE Transactions on Communications, 2025.
 - **F. Wang**, S. Zhang, EK. Hong, and T. Q. S. Quek, Constellation as a Service: Tailored Connectivity Management in Direct-Satellite-to-Device Networks, IEEE Communications Magazine, 2025.
